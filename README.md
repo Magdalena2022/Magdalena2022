@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Magdalena Kobyłka</h1>
+<h1 align="center">Hi there 👋 I'm Magdalena Kobyłka</h1>
 
 📫 How to reach me: **https://www.linkedin.com/in/magdalena-koby%C5%82ka-45b3bb238/**
 
