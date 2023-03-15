@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Magdalena Kobyłka</h1>
 
-📫 How to reach me: **https://www.linkedin.com/in/magdalena-kobylka/**
+📫 How to reach me: linkedin.com/in/magdalena-kobyłka-45b3bb238
 
 Languages and Tools:
   
