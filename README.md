@@ -2,7 +2,7 @@
 
 📫 How to reach me: **https://www.linkedin.com/in/magdalena-koby%C5%82ka-45b3bb238/**
 
-Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 
