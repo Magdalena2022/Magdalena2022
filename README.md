@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Magdalena Kobyłka
 
+📫 How to reach me: linkedin.com/in/magdalena-kobyłka-
+45b3bb238
 <!--
 **Magdalena2022/Magdalena2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
