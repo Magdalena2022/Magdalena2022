@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Magdalena Kobyłka</h1>
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Python and Cypress
 
 - 📫 How to reach me: **https://www.linkedin.com/in/magdalena-koby%C5%82ka-45b3bb238/**
 
